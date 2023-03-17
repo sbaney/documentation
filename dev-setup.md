@@ -52,3 +52,4 @@
  * Generate and add secondary SSH key 
  	- `ssh-keygen -t ed25519 -C "sbaneydesign@gmail.com"`
  	- `eval `keychain --eval ~/.ssh/id_ed25519``
+ * Remove Cached GitHub Credentials (for multiple accounts) - Control Panel\User Accounts\Credential Manager
