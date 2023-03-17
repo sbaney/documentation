@@ -31,6 +31,8 @@
 	 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
  * [mySQL Driver](https://www.npmjs.com/search?q=mysql)
 	 - `npm install mysql2`
+ * [Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli) - `npm install -g gatsby-cli`
+ * [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) - `npm install --global yarn`
 
 ## Config dev environment
  * ConEmu
@@ -52,4 +54,4 @@
  * Generate and add secondary SSH key 
  	- `ssh-keygen -t ed25519 -C "sbaneydesign@gmail.com"`
  	- `eval `keychain --eval ~/.ssh/id_ed25519``
- * Remove Cached GitHub Credentials (for multiple accounts) - Control Panel\User Accounts\Credential Manager
+ * [Remove Cached GitHub Credentials](https://stackoverflow.com/questions/47465644/github-remote-permission-denied) (for multiple accounts) - Control Panel\User Accounts\Credential Manager
