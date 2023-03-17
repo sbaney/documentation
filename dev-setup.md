@@ -48,3 +48,7 @@
 	 - `Enable integration with additional distros` - Enable for Ubuntu
  * Windows Terminal
 	 - Settings > Profiles > Ubuntu > Starting Directory > `//wsl$/Ubuntu/home/steve`
+ * [Auto-launching ssh-agent on Git for Windows](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
+ * Generate and add secondary SSH key 
+ 	- `ssh-keygen -t ed25519 -C "sbaneydesign@gmail.com"`
+ 	- `ssh-add ~/.ssh/id_ed25519`
