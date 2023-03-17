@@ -51,4 +51,4 @@
  * [Auto-launching ssh-agent on Git for Windows](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases)
  * Generate and add secondary SSH key 
  	- `ssh-keygen -t ed25519 -C "sbaneydesign@gmail.com"`
- 	- `ssh-add ~/.ssh/id_ed25519`
+ 	- `eval `keychain --eval ~/.ssh/id_ed25519``
