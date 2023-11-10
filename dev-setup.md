@@ -23,7 +23,10 @@
 	 - Extensions
 	 - Docker Extension
 	 - WSL Extension
+         - VSCodeVIM Extension
 	 - GitHub Pull Requests and Issues
+	 - GitHub Copilot
+	 - [Live Server](https://github.com/ritwickdey/vscode-live-server)
  * HTTRack
  * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
  * zsh / oh-my-zsh
