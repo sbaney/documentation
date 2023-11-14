@@ -19,14 +19,17 @@
  * [Ubuntu Node](https://github.com/nodesource/distributions#debinstall)
 	 - `curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\`
 	 - `sudo apt-get install -y nodejs`
- * VSCode
-	 - Extensions
-	 - Docker Extension
-	 - WSL Extension
-         - VSCodeVIM Extension
+ * VSCode Extensions
+	 - Docker
+	 - WSL
+         - VSCodeVIM
 	 - GitHub Pull Requests and Issues
 	 - GitHub Copilot
 	 - [Live Server](https://github.com/ritwickdey/vscode-live-server)
+	 - Prettier
+	 - ES7+ React/Redux/React-Native Snippets
+	 - JavaScript and TypeScript Nightly
+	 - Tailwind CSS IntelliSense
  * HTTRack
  * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
  * zsh / oh-my-zsh
@@ -43,6 +46,7 @@
  * [WSL development environment](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)_
  * VSCode
 	 - Solarized
+	 - Format on Save - `settings.json` - `"editor.formatOnSave": true`
  * [Set Up SSH Keys in WSL](https://devblogs.microsoft.com/commandline/sharing-ssh-keys-between-windows-and-wsl-2/)
 	 - `cp -r /mnt/c/Users/steve/.ssh ~/.ssh`
 	 - `chmod 600 ~/.ssh/id_rsa`
