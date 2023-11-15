@@ -4,13 +4,13 @@
  * web design
 ## Install dev software
  * Windows Subsystem for Linux `wsl --install`
+ * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/#install-winget)
  *  [PowerShell 7](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3)
  	- `winget search Microsoft.PowerShell`
  	- `winget install --id Microsoft.Powershell --source winget`
  * compilers?
- * ConEmu (Optional - Windows Terminal)
  * SSH `ssh-keygen`
- * [Choclatey](https://chocolatey.org/install)
+ * [Choclatey](https://chocolatey.org/install) - optional, if not using winget
  * [Git](https://git-scm.com/download/win)
 	 - `git config --global user.name "Steve Baney"`
 	 - `git config --global user.email "steve.baney@gmail.com"`
@@ -41,8 +41,6 @@
  * [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) - `npm install --global yarn`
 
 ## Config dev environment
- * ConEmu
-	 - Solarized
  * [WSL development environment](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)_
  * VSCode
 	 - Solarized
