@@ -22,7 +22,6 @@
  * VSCode Extensions
 	 - Docker
 	 - WSL
-         - VSCodeVIM
 	 - GitHub Pull Requests and Issues
 	 - GitHub Copilot
 	 - [Live Server](https://github.com/ritwickdey/vscode-live-server)
