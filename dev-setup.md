@@ -10,7 +10,7 @@
  	- `winget install --id Microsoft.Powershell --source winget`
  * compilers?
  * SSH `ssh-keygen`
- * [Choclatey](https://chocolatey.org/install) - optional, if not using winget
+ * [Choclatey](https://chocolatey.org/install) - [winget is not a package manager, apparently](https://github.com/microsoft/winget-cli/discussions/223#discussion-15735)
  * [Git](https://git-scm.com/download/win)
 	 - `git config --global user.name "Steve Baney"`
 	 - `git config --global user.email "steve.baney@gmail.com"`
